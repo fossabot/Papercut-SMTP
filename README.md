@@ -24,6 +24,7 @@ Papercut SMTP UI Requires the "WebView2" Microsoft shared system component to be
 ## Features
 #### Instant Feedback When New Email Arrives
 ![Instant Feedback When New Email Arrives](https://github.com/ChangemakerStudios/Papercut-SMTP/blob/develop/graphics/PapercutV7-Notification-1.png?raw=true)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2FPapercut-SMTP.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2FPapercut-SMTP?ref=badge_shield)
 #### Rich and Detailed View of Received Email
 ![Rich and Detailed View of Received Email](https://raw.githubusercontent.com/ChangemakerStudios/Papercut-SMTP/refs/heads/develop/graphics/PapercutV7-Main-1.png)
 #### View and Download the Mime Sections of your Email
@@ -146,3 +147,6 @@ docker run -d \
 
 ## License
 Papercut SMTP is Licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2FPapercut-SMTP.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2FPapercut-SMTP?ref=badge_large)
